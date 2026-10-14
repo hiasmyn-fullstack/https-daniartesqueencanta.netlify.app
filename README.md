@@ -2,7 +2,7 @@
 
 Site profissional e responsivo para apresentação de trabalhos de artesanato, personalizados e produtos manuais — feito com carinho para a Dani!
 
-Link: https://daniartesquencanta.netlify.app/
+Link: https://daniartesqueencanta.netlify.app
 
 ---
 
